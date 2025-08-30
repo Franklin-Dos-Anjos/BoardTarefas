@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src/main/java"],
+    "java.project.outputPath": "bin",
+    "java.compile.nullAnalysis.mode": "automatic",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Franklin\\Desktop\\DIO BOOTCAMP\\TESTES DO FRANKLIN\\BoardDeTarefas\\libs\\mysql-connector-j-9.4.0.jar"
+    ]
+}
